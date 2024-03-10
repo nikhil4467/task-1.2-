@@ -1,1 +1,1 @@
-new
+hello my new scm file

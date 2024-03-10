@@ -1,1 +1,4 @@
-now issue fixed
+hello this is my scm file
+we are working on conflicts right now
+this is ur scm task 1.2
+my nami is nikhil

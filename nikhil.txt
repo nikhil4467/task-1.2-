@@ -1,1 +1,1 @@
-hello my new scm file
+now issue fixed

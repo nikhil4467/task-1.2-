@@ -1,2 +1,1 @@
-my scm file 
-task 1.2
+issue fixed boss
